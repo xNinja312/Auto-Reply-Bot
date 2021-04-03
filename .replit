@@ -1,2 +1,2 @@
-language: "node.js"
-run: "npm starts"
+language = "node.js"
+run = "npm starts"
